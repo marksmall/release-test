@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/marksmall/release-test/compare/v1.4.0...v1.5.0) (2019-06-12)
+
+
+### Features
+
+* **frontend:** Move GIT plugin back and fix github assets glob ([53575de](https://github.com/marksmall/release-test/commit/53575de))
+
 # [1.4.0](https://github.com/marksmall/release-test/compare/v1.3.0...v1.4.0) (2019-06-12)
 
 
