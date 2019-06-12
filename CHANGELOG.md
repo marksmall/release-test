@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/marksmall/release-test/compare/v1.5.0...v1.6.0) (2019-06-12)
+
+
+### Features
+
+* **frontend:** Add debugging and rename config file ([a99b243](https://github.com/marksmall/release-test/commit/a99b243))
+
 # [1.5.0](https://github.com/marksmall/release-test/compare/v1.4.0...v1.5.0) (2019-06-12)
 
 
