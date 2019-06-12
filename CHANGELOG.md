@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/marksmall/release-test/compare/v1.1.0...v1.2.0) (2019-06-12)
+
+
+### Features
+
+* **frontend:** Add dependencies for project config ([a55e4fc](https://github.com/marksmall/release-test/commit/a55e4fc))
+
 # [1.1.0](https://github.com/marksmall/release-test/compare/v1.0.0...v1.1.0) (2019-06-12)
 
 
