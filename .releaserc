@@ -19,5 +19,6 @@
   ],
   "preset": "angular",
   "dryRun": false,
-  "ci": false
+  "ci": false,
+  "debug": true
 }
