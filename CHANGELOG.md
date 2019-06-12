@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/marksmall/release-test/compare/v1.2.0...v1.3.0) (2019-06-12)
+
+
+### Features
+
+* **frontend:** Upgrade to latest version of dependencies ([587f2c9](https://github.com/marksmall/release-test/commit/587f2c9))
+
 # [1.2.0](https://github.com/marksmall/release-test/compare/v1.1.0...v1.2.0) (2019-06-12)
 
 
