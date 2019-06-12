@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/marksmall/release-test/compare/v1.3.0...v1.4.0) (2019-06-12)
+
+
+### Features
+
+* **frontend:** Ad debugging ([12f0017](https://github.com/marksmall/release-test/commit/12f0017))
+* **frontend:** Move GIT plugin above GITHUB one ([3b759ac](https://github.com/marksmall/release-test/commit/3b759ac))
+
 # [1.3.0](https://github.com/marksmall/release-test/compare/v1.2.0...v1.3.0) (2019-06-12)
 
 
