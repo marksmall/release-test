@@ -9,16 +9,15 @@
         "npmPublish": false
       }
     ],
+    "@semantic-release/git",
     [
       "@semantic-release/github",
       {
         "assets": "./**"
       }
-    ],
-    "@semantic-release/git"
+    ]
   ],
   "preset": "angular",
   "dryRun": false,
-  "ci": false,
-  "debug": true
+  "ci": false
 }
